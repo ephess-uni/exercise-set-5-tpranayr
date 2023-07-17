@@ -1,4 +1,3 @@
-
 """ex_5_1.py"""
 try:
     from src.ex_5_0 import line_count
